@@ -22,3 +22,5 @@ To do it, I suggest you to check the digital content under SAVA to learn how you
 ### Next steps dates
 [ ] Data store with your application: 10/11/2022.
 [ ] API Data Consuming: 24/11/2022.
+
+Have fun!
